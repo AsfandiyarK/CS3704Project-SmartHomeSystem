@@ -1,0 +1,26 @@
+Some Info from the lecture slides on the project:
+
+**Smart Home System**
+
+Access control
+– Intrusion detection
+• Leverage camera, sensor, light, RFID (Radio
+frequency identification) tags
+– Authenticate
+• Check whether you are who you claim to be?
+– Validate
+• Check whether you are supposed to be entering
+this house?
+17
+• Lock control
+– Key checker
+– Open/Close the door (main entrance, garage door)
+• “live-in look” control
+– Use timers to control lights, televisions, a/c, and
+sound
+• Remote controller
+• Status report
+– Send emails/phone calls to home owners/police
+when intrusion happens
+– Send status report periodically to owners when
+they are away for vacation
